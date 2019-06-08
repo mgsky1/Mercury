@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/README.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/Client.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/MetaData.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/Server.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/Utils/ConversionUtils.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/Utils/IOUtils.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/Utils/NetUtils.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/Utils/__init__.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/mercury.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/TestFunctions.py" charset="UTF-8" />
+  </component>
+</project>

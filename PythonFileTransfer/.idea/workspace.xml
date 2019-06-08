@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49e9d24c-bae2-449b-a66b-7bbcf0ee0b02" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/src/README.md" afterPath="$PROJECT_DIR$/src/README.md" />
+      <change beforePath="$PROJECT_DIR$/src/main/Client.py" afterPath="$PROJECT_DIR$/src/main/Client.py" />
+      <change beforePath="$PROJECT_DIR$/src/main/Server.py" afterPath="$PROJECT_DIR$/src/main/Server.py" />
+      <change beforePath="$PROJECT_DIR$/src/main/Utils/IOUtils.py" afterPath="$PROJECT_DIR$/src/main/Utils/IOUtils.py" />
+      <change beforePath="$PROJECT_DIR$/src/main/Utils/NetUtils.py" afterPath="$PROJECT_DIR$/src/main/Utils/NetUtils.py" />
+      <change beforePath="$PROJECT_DIR$/src/main/mercury.py" afterPath="$PROJECT_DIR$/src/main/mercury.py" />
+      <change beforePath="$PROJECT_DIR$/src/test/TestFunctions.py" afterPath="$PROJECT_DIR$/src/test/TestFunctions.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PythonFileTransfer$IOUtils.coverage" NAME="IOUtils Coverage Results" MODIFIED="1559901323598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Utils" />
+    <SUITE FILE_PATH="coverage/PythonFileTransfer$Server.coverage" NAME="Server Coverage Results" MODIFIED="1559473208364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/PythonFileTransfer$Server__1_.coverage" NAME="Server (1) Coverage Results" MODIFIED="1559970840618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main" />
+    <SUITE FILE_PATH="coverage/PythonFileTransfer$Twisted_Trial_in_TestFunctions_py.coverage" NAME="Twisted Trial in TestFunctions.py Coverage Results" MODIFIED="1559829642326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/test" />
+    <SUITE FILE_PATH="coverage/PythonFileTransfer$mercury.coverage" NAME="mercury Coverage Results" MODIFIED="1559870646310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main" />
+    <SUITE FILE_PATH="coverage/PythonFileTransfer$Twisted_Trial_in_Server_py.coverage" NAME="Twisted Trial in Server.py Coverage Results" MODIFIED="1558065980205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main" />
+    <SUITE FILE_PATH="coverage/PythonFileTransfer$Net.coverage" NAME="Net Coverage Results" MODIFIED="1559468806669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Utils" />
+    <SUITE FILE_PATH="coverage/PythonFileTransfer$Client__1_.coverage" NAME="Client (1) Coverage Results" MODIFIED="1558081477672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main" />
+    <SUITE FILE_PATH="coverage/PythonFileTransfer$Io.coverage" NAME="Io Coverage Results" MODIFIED="1559547198181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Utils" />
+    <SUITE FILE_PATH="coverage/PythonFileTransfer$Client.coverage" NAME="Client Coverage Results" MODIFIED="1559491735422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main" />
+    <SUITE FILE_PATH="coverage/PythonFileTransfer$NetUtils.coverage" NAME="NetUtils Coverage Results" MODIFIED="1559916833177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Utils" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ip</find>
+      <find>ConversionUtils</find>
+      <find>fileRecursionShow</find>
+      <find>tqdm</find>
+      <find>thread</find>
+      <find>fileList</find>
+      <find>目录</find>
+      <find>mercury</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Server.py" />
+        <option value="$PROJECT_DIR$/src/Client.py" />
+        <option value="$PROJECT_DIR$/src/Server.py" />
+        <option value="$PROJECT_DIR$/src/block/BlockServer.py" />
+        <option value="$PROJECT_DIR$/src/main/block/BlockClient.py" />
+        <option value="$PROJECT_DIR$/src/main/block/BlockServer.py" />
+        <option value="$PROJECT_DIR$/src/main/Utils/__init__.py" />
+        <option value="$PROJECT_DIR$/src/main/Utils/Conversation.py" />
+        <option value="$PROJECT_DIR$/src/main/Utils/net.py" />
+        <option value="$PROJECT_DIR$/src/main/Utils/io.py" />
+        <option value="$PROJECT_DIR$/src/main/Utils/Conversion.py" />
+        <option value="$PROJECT_DIR$/src/main/Utils/Net.py" />
+        <option value="$PROJECT_DIR$/src/main/Utils/Io.py" />
+        <option value="$PROJECT_DIR$/Utils/Io.py" />
+        <option value="$PROJECT_DIR$/Utils/Net.py" />
+        <option value="$PROJECT_DIR$/Utils/ConversionUtils.py" />
+        <option value="$PROJECT_DIR$/src/main/Mercury.py" />
+        <option value="$PROJECT_DIR$/src/main/MetaData.py" />
+        <option value="$PROJECT_DIR$/src/main/Utils/ConversionUtils.py" />
+        <option value="$PROJECT_DIR$/src/main/Client.py" />
+        <option value="$PROJECT_DIR$/src/main/Utils/NetUtils.py" />
+        <option value="$PROJECT_DIR$/src/main/mercury.py" />
+        <option value="$PROJECT_DIR$/src/main/Utils/IOUtils.py" />
+        <option value="$PROJECT_DIR$/src/main/Server.py" />
+        <option value="$PROJECT_DIR$/src/test/TestFunctions.py" />
+        <option value="$PROJECT_DIR$/src/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="1" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PythonFileTransfer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonFileTransfer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonFileTransfer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonFileTransfer" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonFileTransfer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonFileTransfer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonFileTransfer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonFileTransfer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonFileTransfer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonFileTransfer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonFileTransfer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonFileTransfer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OnlyForTestUse" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Python\PythonFileTransfer\src\main" />
+      <recent name="E:\Python\PythonFileTransfer\src" />
+      <recent name="E:\Python\PythonFileTransfer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Server (1)">
+    <configuration name="IOUtils" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/Utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonFileTransfer" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/Utils/IOUtils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="NetUtils" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/Utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonFileTransfer" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/Utils/NetUtils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Server (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonFileTransfer" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/Server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="mercury" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonFileTransfer" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/mercury.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Twisted Trial in TestFunctions.py" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonFileTransfer" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/test/TestFunctions.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.Server (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.mercury" />
+      <item index="2" class="java.lang.String" itemvalue="Python.IOUtils" />
+      <item index="3" class="java.lang.String" itemvalue="Python.NetUtils" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Twisted Trial in TestFunctions.py" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Server (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.NetUtils" />
+        <item index="2" class="java.lang.String" itemvalue="Python.IOUtils" />
+        <item index="3" class="java.lang.String" itemvalue="Python.mercury" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Twisted Trial in TestFunctions.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49e9d24c-bae2-449b-a66b-7bbcf0ee0b02" name="Default" comment="" />
+      <created>1557150270475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557150270475</updated>
+    </task>
+    <task id="LOCAL-00001" summary="第一次测试，存在文件传输完成后不能退出的BUG">
+      <created>1557153061335</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557153061335</updated>
+    </task>
+    <task id="LOCAL-00002" summary="修改文件传输时不能退出的BUG">
+      <created>1557156697113</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557156697113</updated>
+    </task>
+    <task id="LOCAL-00003" summary="增加百分比显示">
+      <created>1557157071938</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557157071938</updated>
+    </task>
+    <task id="LOCAL-00004" summary="增加进度显示与修复BUG">
+      <created>1557552440998</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557552440998</updated>
+    </task>
+    <task id="LOCAL-00005" summary="增加大文件分块模组">
+      <created>1557934811760</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1557934811775</updated>
+    </task>
+    <task id="LOCAL-00006" summary="增加多线程传输(项目Deprecated)">
+      <created>1558146942826</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1558146942826</updated>
+    </task>
+    <task id="LOCAL-00007" summary="修改项目整体结构">
+      <created>1559576708293</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1559576708293</updated>
+    </task>
+    <task id="LOCAL-00008" summary="增加异常处理">
+      <created>1559832018750</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559832018750</updated>
+    </task>
+    <task id="LOCAL-00009" summary="输出优化+端口连通性检测+参数优化">
+      <created>1559901807242</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1559901807243</updated>
+    </task>
+    <task id="LOCAL-00010" summary="修改参数">
+      <created>1559902048565</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1559902048565</updated>
+    </task>
+    <task id="LOCAL-00011" summary="修改BUG">
+      <created>1559904626716</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1559904626716</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Twisted_Trial_in_TestFunctions_py - 2019.06.06 at 21h 53m 25s.xml">
+      <configuration name="Twisted Trial in TestFunctions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_in_TestFunctions_py - 2019.06.06 at 21h 54m 21s.xml">
+      <configuration name="Twisted Trial in TestFunctions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_in_TestFunctions_py - 2019.06.06 at 21h 57m 10s.xml">
+      <configuration name="Twisted Trial in TestFunctions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_in_TestFunctions_py - 2019.06.06 at 21h 57m 33s.xml">
+      <configuration name="Twisted Trial in TestFunctions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_in_TestFunctions_py - 2019.06.06 at 21h 58m 19s.xml">
+      <configuration name="Twisted Trial in TestFunctions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_in_TestFunctions_py - 2019.06.06 at 21h 58m 32s.xml">
+      <configuration name="Twisted Trial in TestFunctions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_in_TestFunctions_py - 2019.06.06 at 21h 59m 25s.xml">
+      <configuration name="Twisted Trial in TestFunctions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_in_TestFunctions_py - 2019.06.06 at 21h 59m 52s.xml">
+      <configuration name="Twisted Trial in TestFunctions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_in_TestFunctions_py - 2019.06.06 at 22h 00m 04s.xml">
+      <configuration name="Twisted Trial in TestFunctions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_in_TestFunctions_py - 2019.06.06 at 22h 00m 43s.xml">
+      <configuration name="Twisted Trial in TestFunctions.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36573312" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3509061" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35584843" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39044482" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18532526" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3970346" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次测试，存在文件传输完成后不能退出的BUG" />
+    <MESSAGE value="修改文件传输时不能退出的BUG" />
+    <MESSAGE value="增加百分比显示" />
+    <MESSAGE value="增加进度显示与修复BUG" />
+    <MESSAGE value="增加大文件分块模组" />
+    <MESSAGE value="增加多线程传输(项目Deprecated)" />
+    <MESSAGE value="修改项目整体结构" />
+    <MESSAGE value="增加异常处理" />
+    <MESSAGE value="输出优化+端口连通性检测+参数优化" />
+    <MESSAGE value="修改参数" />
+    <MESSAGE value="修改BUG" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改BUG" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="43" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="i" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>i</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>fileList[index]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/_Server.py" />
+    <entry file="file://$PROJECT_DIR$/src/test/TestFunctions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="74" lean-forward="false" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/_Client.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/_Server.py" />
+    <entry file="file://$PROJECT_DIR$/src/test/TestFunctions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="74" lean-forward="true" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/_Client.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/_Server.py" />
+    <entry file="file://$PROJECT_DIR$/src/test/TestFunctions.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/_Client.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/_Server.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/block/BlockServer.py" />
+    <entry file="file://$PROJECT_DIR$/src/test/TestFunctions.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/block/BlockClient.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/block/BlockServer.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/block/BlockClient.py" />
+    <entry file="file://$PROJECT_DIR$/src/test/TestFunctions.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/_Server.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/_Client.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/_Server.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/_Client.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/_Server.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/_Client.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/_Server.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/_Client.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/_Server.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/_Client.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/_Server.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/_Client.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/_Server.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/_Client.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/_Server.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/_Client.py" />
+    <entry file="file://$PROJECT_DIR$/src/Client.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/Utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/block/BlockServer.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/block/BlockClient.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/_Client.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/_Server.py" />
+    <entry file="file://$PROJECT_DIR$/src/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/Utils/ConversionUtils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="310" column="0" lean-forward="false" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="57" column="82" lean-forward="false" selection-start-line="57" selection-start-column="82" selection-end-line="57" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Utils/NetUtils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/MetaData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Utils/IOUtils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#175#184#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/mercury.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390">
+          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/TestFunctions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#81#96#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
