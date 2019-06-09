@@ -1,5 +1,5 @@
 '''
-@desc:
+@desc:客户端类
 @author: Martin Huang
 @time: created on 2019/6/2 21:31
 @修改记录:2019/6/3 => 完成基础骨架

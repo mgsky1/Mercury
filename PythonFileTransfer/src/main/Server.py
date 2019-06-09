@@ -1,10 +1,11 @@
 '''
-@desc:
+@desc:服务器类
 @author: Martin Huang
 @time: created on 2019/6/2 17:38
 @修改记录:2019/6/3 => 完成基础骨架
           2019/6/6 => 增加异常处理
           2019/6/7 => 输出优化+参数优化+端口连通性检测
+          2019/6/9 => 服务器端启动时显示其IP
 '''
 from tqdm import tqdm
 import os
@@ -62,6 +63,9 @@ class Server:
                     sys.exit(-1)
 
     def serverTransferFileProcess(self):
+        print('服务器IP为：')
+        sip = NetUtils.getLocalIPAddr()
+        print(sip)
         print('SETP1---初始化元数据')
         self.initMetaData()
         print('STEP2---测试端口连通性')

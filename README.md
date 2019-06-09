@@ -22,6 +22,7 @@
 > * 支持大文件分块传输以提高效率
 > * 传输进度使用了`tqdm`库，进度直观
 > * 命令行提供多种参数，例如线程数、文件分块大小等可供用户设置，方便在不同的网络环境和具体场景中达到较理想的传输效果
+> * 服务器端启动时直接显示其IP地址，免除查询烦恼
 
 # Application Scenario
 > * 当前许多笔记本电脑，例如苹果的Macbook系列，正逐渐取消USB-A接口，而目前U盘等设备
@@ -68,7 +69,7 @@
 
 
 # Screen Shots
-![](https://blog.acmsmu.cn/wp-content/uploads/2019/06/20190608180619.png)
+![](https://blog.acmsmu.cn/wp-content/uploads/2019/06/20190609093238.png)
 
 # ChangeLog
 > * 2019/06/03 完成项目基本骨架

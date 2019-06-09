@@ -1,5 +1,5 @@
 '''
-@desc:
+@desc:元数据类
 @author: Martin Huang
 @time: created on 2019/6/2 17:57
 @修改记录:2019/6/3 => 完成基础骨架
