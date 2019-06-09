@@ -16,6 +16,8 @@
     -b or --buffer 表示网络传输时的缓冲区大小(可选) 值：默认1M
     -n or --blocksize 表示文件的分块大小(可选) 值：默认100M
 ```
+# Download
+[二进制文件下载](https://github.com/mgsky1/Mercury/releases)
 # Features
 > * 当本机作为服务器时，若传入的路径是目录，则会将其以及子目录中的所有文件打包成zip文件后传输
 > * 支持多线程传输/下载数据
