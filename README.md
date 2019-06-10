@@ -1,4 +1,6 @@
 # Mercury
+![](https://img.shields.io/badge/Python-3.6+-brightgreen.svg)
+![](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20x64-blue.svg)
 # Summary
 一个简单跨平台的局域网P2P文件传输工具，目前支持Windows/Linux
 # Usage
