@@ -5,9 +5,9 @@
 一个简单跨平台的局域网P2P文件传输工具，目前支持Windows/Linux
 # Usage
 ```shell
-    当本机作为服务器时：
-    mercury -t client -p path -i serverIP [-P port -T threadnum -b buffer -n blocksize]
     当本机作为客户端时：
+    mercury -t client -p path -i serverIP [-P port -T threadnum -b buffer -n blocksize]
+    当本机作服务器为时：
     mercury -t server -p path [-P port -T threadnum -b buffer -n blocksize]
     参数含义：
     -t or --type 表示类型(必须) 值：server/client
